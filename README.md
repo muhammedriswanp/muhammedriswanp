@@ -29,9 +29,21 @@
 ---
 
 ## 📈 LeetCode Stats
+
+
+
 <div align="center">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/muhammed_riswan_p?theme=dark&font=Fira%20Code)](https://leetcode.com/muhammed_riswan_p/)
+
+
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/muhammed_riswan_p?theme=dark&font=Fira%20Code)](https://leetcode.com/muhammed_riswan_p/)
+
+
+
 </div>
+
+
+
 ---
 ## 🚀 Technologies & Tools
 
