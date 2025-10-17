@@ -26,50 +26,47 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📈 LeetCode Stats
 
-
-
 <div align="center">
-
-
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/muhammed_riswan_p?theme=dark&font=Fira%20Code)](https://leetcode.com/muhammed_riswan_p/)
 
-
-
 </div>
 
-
-
 ---
+
 ## 🚀 Technologies & Tools
 
 ### Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 ### Web Development
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-
-
+### Data Tools & Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 | <img src="https://github-readme-stats.vercel.app/api?username=muhammedriswanp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3F8F&icon_color=7E3F8F&text_color=FFFFFF" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedriswanp&theme=radical&hide_border=true&background=0D1117&stroke=7E3F8F&ring=7E3F8F&fire=7E3F8F&currStreakNum=FFFFFF&currStreakLabel=7E3F8F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /> |
 | :-: | :-: |
 
@@ -87,10 +84,11 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-riswan-8b29a5377/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__riswa_n)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedriswanp7@gmail.com)
+
 </div>
 
 ---
@@ -98,7 +96,7 @@
 ## ❤️ Support Me
 
 <div align="center">
-  
+
 If you like my work, please consider giving a ⭐️ to my repositories!
 
 <a href="https://www.buymeacoffee.com/yourprofile" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="145" /></a>
@@ -108,13 +106,13 @@ If you like my work, please consider giving a ⭐️ to my repositories!
 ---
 
 <div align="center">
-  
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=muhammedriswanp&label=Profile+Views&color=7E3F8F&style=for-the-badge)
 
 </div>
 
 <div align="center">
-  
+
 ![GitHub Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
 
 </div>
