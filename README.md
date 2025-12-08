@@ -82,15 +82,32 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=muhammedriswanp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3F8F&icon_color=7E3F8F&text_color=FFFFFF" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedriswanp&theme=radical&hide_border=true&background=0D1117&stroke=7E3F8F&ring=7E3F8F&fire=7E3F8F&currStreakNum=FFFFFF&currStreakLabel=7E3F8F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /> |
-| :-: | :-: |
+### GitHub Statistics
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=muhammedriswanp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3F8F&icon_color=7E3F8F&text_color=FFFFFF" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedriswanp&theme=radical&hide_border=true&background=0D1117&stroke=7E3F8F&ring=7E3F8F&fire=7E3F8F&currStreakNum=FFFFFF&currStreakLabel=7E3F8F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
+### Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedriswanp&theme=react-dark&bg_color=0D1117&hide_border=true&color=7E3F8F&line=7E3F8F&point=FFFFFF" alt="Activity Graph" width="90%" />
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedriswanp&theme=radical" alt="Top Languages by Commit" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedriswanp&theme=radical" alt="Top Languages by Repo" width="45%" />
-</div>
+### Alternative Statistics (if above doesn't work)
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedriswanp&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=7E3F8F" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedriswanp&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
