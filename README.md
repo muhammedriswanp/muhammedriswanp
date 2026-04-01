@@ -165,7 +165,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=muhammedriswanp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3F8F&icon_color=7E3F8F&text_color=FFFFFF" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedriswanp&theme=radical" alt="Top Languages" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedriswanp&theme=radical&hide_border=true&background=0D1117&stroke=7E3F8F&ring=7E3F8F&fire=7E3F8F&currStreakNum=FFFFFF&currStreakLabel=7E3F8F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
@@ -187,25 +187,7 @@
 
 </div>
 
----
 
-## ❤️ Support Me
-
-<div align="center">
-
-If you like my work, please consider giving a ⭐️ to my repositories!
-
-<a href="https://www.buymeacoffee.com/yourprofile" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="145" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=muhammedriswanp&label=Profile+Views&color=7E3F8F&style=for-the-badge)
-
-</div>
 
 <div align="center">
 
