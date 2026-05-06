@@ -69,6 +69,9 @@
     <td align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/><br>NumPy</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br>TensorFlow</td>
+  </tr>
 </table>
 
 ---
